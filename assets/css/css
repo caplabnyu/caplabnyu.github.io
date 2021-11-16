@@ -1,0 +1,58 @@
+@font-face {
+  font-family: 'BenchNine';
+  font-style: normal;
+  font-weight: 300;
+  src: local('BenchNine Light'), local('BenchNine-Light'), url(http://web.archive.org/web/20190508224126im_/https://fonts.gstatic.com/s/benchnine/v7/ahcev8612zF4jxrwMosT--thgmy4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bungee Hairline';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bungee Hairline'), local('BungeeHairline-Regular'), url(http://web.archive.org/web/20190508224126im_/https://fonts.gstatic.com/s/bungeehairline/v4/snfys0G548t04270a_ljTLUVrv-LZxeZ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans Condensed';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Open Sans Condensed Light'), local('OpenSansCondensed-Light'), url(http://web.archive.org/web/20190508224126im_/https://fonts.gstatic.com/s/opensanscondensed/v13/z7NFdQDnbTkabZAIOl9il_O6KJj73e7Ff1GhDuXMQg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Oswald';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Oswald Regular'), local('Oswald-Regular'), url(http://web.archive.org/web/20190508224126im_/https://fonts.gstatic.com/s/oswald/v17/TK3iWkUHHAIjg752GT8D.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Pontano Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Pontano Sans'), local('PontanoSans-Regular'), url(http://web.archive.org/web/20190508224126im_/https://fonts.gstatic.com/s/pontanosans/v6/qFdD35GdgYR8EzR6oBLDHa3axT8I.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Quicksand';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Quicksand Regular'), local('Quicksand-Regular'), url(http://web.archive.org/web/20190508224126im_/https://fonts.gstatic.com/s/quicksand/v9/6xKtdSZaM9iE8KbpRA_hK1QI.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 22:41:26 May 08, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:20:59 Nov 05, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 376.82
+  exclusion.robots: 0.071
+  exclusion.robots.policy: 0.066
+  RedisCDXSource: 33.402
+  esindex: 0.007
+  LoadShardBlock: 320.305 (3)
+  PetaboxLoader3.datanode: 234.204 (4)
+  CDXLines.iter: 20.425 (3)
+  PetaboxLoader3.resolve: 175.044 (2)
+  load_resource: 131.881
+*/
